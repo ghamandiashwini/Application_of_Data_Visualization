@@ -78,8 +78,7 @@ The project includes a variety of visualizations, such as:
 ```
 Application_of_Data_Visualization/
 │
-├── Application_of_Data_Visualization.ipynb
-├── dataset.csv
+├── EDA Report – [Hourly Wage Data].pdf
 ├── README.md
 ```
 
@@ -90,7 +89,7 @@ Application_of_Data_Visualization/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Application_of_Data_Visualization.git
+git clone https://github.com/ghamandiashwini/Application_of_Data_Visualization.git
 ```
 
 2. Navigate to the project directory
